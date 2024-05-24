@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zaidasim2197
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning AI and Chatbot
+- 🌱 I’m currently learning Data Science
 - 📫 How to reach me: Email: zaidbinasim2197@gmail.com
 
 <!---
